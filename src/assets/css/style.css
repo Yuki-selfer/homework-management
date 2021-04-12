@@ -1,0 +1,10 @@
+.crumbs {
+    margin: 5px 0 10px 10px;
+}
+
+.container {
+    padding: 10px 30px 10px 30px;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
